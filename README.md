@@ -14,7 +14,7 @@ For me it look like this:
   ```
   
  - **`CvToQt`** is my class, to convert images from Opencv to Qt Image/Pixmap!
- - **`VideoProcessorThread`** is my class too, a thread to process a stream of frames (video) in a ***live time!****
+ - **`VideoProcessorThread`** is my class too, a thread to process a stream of frames (video) in a ***live time!***
  
  ### ScreenShots:
  Explanation:
